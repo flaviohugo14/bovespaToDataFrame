@@ -25,7 +25,7 @@ $ git clone https://github.com/flaviohugo14/bovespaToDataFrame.git
 ```
 $ cd bovespaToDataFrame
 ```
-4. Abra o arquivo index.py com o editor de sua preferência e leia atentamente os comentários.
+4. Abra o arquivo ```index.py``` com o editor de sua preferência e leia atentamente os comentários.
 ---
 
 By [Flávio Pangrácio](https://www.linkedin.com/in/flaviopangracio/)
